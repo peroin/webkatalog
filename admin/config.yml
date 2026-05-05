@@ -5,6 +5,10 @@ backend:
   base_url: https://ailabss.milliarsatu4.workers.dev
   auth_endpoint: /auth
 
+# Tambahkan ini agar CMS tahu alamat aslinya
+site_url: https://ailabss.pages.dev
+display_url: https://ailabss.pages.dev
+
 media_folder: "images"
 public_folder: "/images"
 
